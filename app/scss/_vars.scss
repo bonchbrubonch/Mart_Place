@@ -1,0 +1,26 @@
+$bg: #eef1f3;
+$text:  #555;
+$blue: #0674ec;
+$grey: #eff1f5;
+$fiolet: #7347c1;
+
+@mixin f300{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 300;
+}
+@mixin f400{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 400;
+}
+@mixin f500{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+}
+@mixin f600{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+}
+@mixin f700{
+    font-family: "Quicksand", sans-serif;
+    font-weight: 700;
+}
